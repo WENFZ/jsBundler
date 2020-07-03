@@ -1,4 +1,4 @@
-a naive implementation of js module bundler in js
+a naive implementation of js module bundler in js.
 
 just do a graph bfs and create a global object to store modules.
 
